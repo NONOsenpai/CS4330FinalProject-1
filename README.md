@@ -15,9 +15,9 @@
 
  ## Comparisons 
 
-[Language purpose/genesis](https://github.com/agom94/CS4330FinalProject/blob/master/LanguagePurpose.md)  
-[Unique features of the language](https://github.com/agom94/CS4330FinalProject/blob/master/Uniquefeatures.md)  
-[Name spaces](https://github.com/agom94/CS4330FinalProject/blob/master/namespaces.md)  
+   [Language purpose/genesis](https://github.com/agom94/CS4330FinalProject/blob/master/LanguagePurpose.md)  
+   [Unique features of the language](https://github.com/agom94/CS4330FinalProject/blob/master/Uniquefeatures.md)  
+   [Name spaces](https://github.com/agom94/CS4330FinalProject/blob/master/namespaces.md)  
 [Types](https://github.com/agom94/CS4330FinalProject/blob/master/types.md)  
 [Classes](https://github.com/agom94/CS4330FinalProject/blob/master/classes.md)
 [Instance reference name in data type (class)](https://github.com/agom94/CS4330FinalProject/blob/master/selfrefrences.md) 
