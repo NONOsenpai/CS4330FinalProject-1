@@ -49,8 +49,9 @@ Like Java, PHP does not support backing fields or computed variables; however, P
 An example showing a PHP class with private fields and public getters/setters.
 
 ```php
-<?php
 An example showing a PHP class with private fields and public getters/setters.
+
+<?php
 
 class Pet {
     private $name;
