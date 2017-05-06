@@ -31,6 +31,6 @@
 [Errors and exception handling](https://github.com/agom94/CS4330FinalProject/blob/master/exception.md)     
 [Lambda expressions, closures, or functions as types](https://github.com/agom94/CS4330FinalProject/blob/master/lambda.md)     
 [Implementation of listeners and event handlers](https://github.com/agom94/CS4330FinalProject/blob/master/listeners.md)
-[Singleton](https://github.com/agom94/CS4330FinalProject/blob/master/Singleton.md)                                                         [Procedural programming](https://github.com/agom94/CS4330FinalProject/blob/master/Procedural.md)                          
-[Functional programming](https://github.com/agom94/CS4330FinalProject/blob/master/Functional.md)                                 
+[Singleton](https://github.com/agom94/CS4330FinalProject/blob/master/Singleton.md) <br>                                                 [Procedural programming](https://github.com/agom94/CS4330FinalProject/blob/master/Procedural.md)   <br>                       
+[Functional programming](https://github.com/agom94/CS4330FinalProject/blob/master/Functional.md)   <br>                              
 [Multithreading](https://github.com/agom94/CS4330FinalProject/blob/master/Multithreading.md)                                                                                                                        
