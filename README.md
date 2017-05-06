@@ -15,9 +15,9 @@
 
  ## Comparisons 
 
-   [Language purpose/genesis](https://github.com/agom94/CS4330FinalProject/blob/master/LanguagePurpose.md)  
-   [Unique features of the language](https://github.com/agom94/CS4330FinalProject/blob/master/Uniquefeatures.md)  
-   [Name spaces](https://github.com/agom94/CS4330FinalProject/blob/master/namespaces.md)  
+[Language purpose/genesis](https://github.com/agom94/CS4330FinalProject/blob/master/LanguagePurpose.md)  
+[Unique features of the language](https://github.com/agom94/CS4330FinalProject/blob/master/Uniquefeatures.md)  
+[Name spaces](https://github.com/agom94/CS4330FinalProject/blob/master/namespaces.md)  
 [Types](https://github.com/agom94/CS4330FinalProject/blob/master/types.md)  
 [Classes](https://github.com/agom94/CS4330FinalProject/blob/master/classes.md)
 [Instance reference name in data type (class)](https://github.com/agom94/CS4330FinalProject/blob/master/selfrefrences.md) 
@@ -31,7 +31,6 @@
 [Errors and exception handling](https://github.com/agom94/CS4330FinalProject/blob/master/exception.md)     
 [Lambda expressions, closures, or functions as types](https://github.com/agom94/CS4330FinalProject/blob/master/lambda.md)     
 [Implementation of listeners and event handlers](https://github.com/agom94/CS4330FinalProject/blob/master/listeners.md)
-[Singleton](https://github.com/agom94/CS4330FinalProject/blob/master/Singleton.md)                                                            
-[Procedural programming](https://github.com/agom94/CS4330FinalProject/blob/master/Procedural.md)                                                            
-[Functional programming](https://github.com/agom94/CS4330FinalProject/blob/master/Functional.md)                                                            
+[Singleton](https://github.com/agom94/CS4330FinalProject/blob/master/Singleton.md)                                                         [Procedural programming](https://github.com/agom94/CS4330FinalProject/blob/master/Procedural.md)                          
+[Functional programming](https://github.com/agom94/CS4330FinalProject/blob/master/Functional.md)                                 
 [Multithreading](https://github.com/agom94/CS4330FinalProject/blob/master/Multithreading.md)                                                                                                                        
