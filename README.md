@@ -23,7 +23,7 @@
 [Instance reference name in data type (class)](https://github.com/agom94/CS4330FinalProject/blob/master/selfrefrences.md) -DREW <br>
 [Properties](https://github.com/agom94/CS4330FinalProject/blob/master/Properties.md)-DREW <br> 
 [Interfaces / protocols](https://github.com/agom94/CS4330FinalProject/blob/master/interfaces.md) <br>
-[Inheritance / extension](https://github.com/agom94/CS4330FinalProject/blob/master/Inheritance.md) <br> -ADAM
+[Inheritance / extension](https://github.com/agom94/CS4330FinalProject/blob/master/Inheritance.md)  -ADAM<br>
 [Reflection](https://github.com/agom94/CS4330FinalProject/blob/master/Reflection.md) <br>
 [Memory management](https://github.com/agom94/CS4330FinalProject/blob/master/memory.md)<br>
 [Comparisons of references and values](https://github.com/agom94/CS4330FinalProject/blob/master/referencesandvalues.md)   <br>  
