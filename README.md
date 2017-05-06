@@ -19,13 +19,13 @@
 [Unique features of the language](https://github.com/agom94/CS4330FinalProject/blob/master/Uniquefeatures.md)  
 [Name spaces](https://github.com/agom94/CS4330FinalProject/blob/master/namespaces.md)  
 [Types](https://github.com/agom94/CS4330FinalProject/blob/master/types.md)  
-[Classes](https://github.com/agom94/CS4330FinalProject/blob/master/classes.md)
-[Instance reference name in data type (class)](https://github.com/agom94/CS4330FinalProject/blob/master/selfrefrences.md) 
-[Properties](https://github.com/agom94/CS4330FinalProject/blob/master/Properties.md) 
-[Interfaces / protocols](https://github.com/agom94/CS4330FinalProject/blob/master/interfaces.md) 
-[Inheritance / extension](https://github.com/agom94/CS4330FinalProject/blob/master/Inheritance.md) 
-[Reflection](https://github.com/agom94/CS4330FinalProject/blob/master/Reflection.md) 
-[Memory management](https://github.com/agom94/CS4330FinalProject/blob/master/memory.md)
+[Classes](https://github.com/agom94/CS4330FinalProject/blob/master/classes.md)<br>
+[Instance reference name in data type (class)](https://github.com/agom94/CS4330FinalProject/blob/master/selfrefrences.md) <br>
+[Properties](https://github.com/agom94/CS4330FinalProject/blob/master/Properties.md) <br>
+[Interfaces / protocols](https://github.com/agom94/CS4330FinalProject/blob/master/interfaces.md) <br>
+[Inheritance / extension](https://github.com/agom94/CS4330FinalProject/blob/master/Inheritance.md) <br>
+[Reflection](https://github.com/agom94/CS4330FinalProject/blob/master/Reflection.md) <br>
+[Memory management](https://github.com/agom94/CS4330FinalProject/blob/master/memory.md)<br>
 [Comparisons of references and values](https://github.com/agom94/CS4330FinalProject/blob/master/referencesandvalues.md)     
 [Null/nil references](https://github.com/agom94/CS4330FinalProject/blob/master/Nullrefrences.md)     
 [Errors and exception handling](https://github.com/agom94/CS4330FinalProject/blob/master/exception.md)     
