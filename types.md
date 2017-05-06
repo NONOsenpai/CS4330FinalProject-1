@@ -19,6 +19,8 @@ Yes.
 
 No. New value Types can no be created in Java
 
+
+
 Sources https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
 
 ## PHP A loosly typed langauge 
@@ -41,6 +43,8 @@ Yes.
 ***Can new value types be created?***
 
 No, objects can be created in PHP but they are refrences types not value types.
+
+
 
 sources http://php.net/manual/en/functions.arguments.php
 http://php.net/manual/en/language.types.intro.php
@@ -72,6 +76,8 @@ Yes.
 
 ***Can new value types be created?***
   Yes, Though the use of 'struct', 'class', 'interface', and 'enum'.
+  
+  
   
 sources https://docs.microsoft.com/en-us/dotnet/articles/csharp/programming-guide/types/
 https://docs.microsoft.com/en-us/dotnet/articles/csharp/language-reference/keywords/reference-tables-for-types
