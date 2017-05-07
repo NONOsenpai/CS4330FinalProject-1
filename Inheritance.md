@@ -28,7 +28,7 @@ sources http://php.net/manual/en/language.oop5.inheritance.php
 
 ## C# 
 - Supports inheritance
-- Supports multiple inheritance 
+- Does not support multiple inheritance 
 - Classes do not have to inherit from another class therefore in C# there is an inheritance forest
 - Can change the protection level of members of base class
 
