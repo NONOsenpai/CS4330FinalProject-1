@@ -1,5 +1,5 @@
 # Types
-## Java A stronly typed language
+## Java: A stronly typed language
 
 ***What types does the language support?***
 - byte
@@ -23,7 +23,7 @@ No. New value Types can no be created in Java
 
 Sources https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
 
-## PHP A loosly typed langauge 
+## PHP: A loosly typed langauge 
 ***What types does the language support?***
 - boolean
 - interger
@@ -49,7 +49,7 @@ No, objects can be created in PHP but they are refrences types not value types.
 sources http://php.net/manual/en/functions.arguments.php
 http://php.net/manual/en/language.types.intro.php
 
-## C# A strongly typed language 
+## C#: A strongly typed language 
 
 ***What types does the language support?***
 - bool
