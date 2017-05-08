@@ -59,4 +59,31 @@ Java's Thread class supports interruption of a thread through use of the interru
 The Thread class also has a sleep method that will temporarily pause execution for the specified amount of time.
 
 ### Stopping a Thread
-Once a thread's run method has ceased executing, the thread stops. Java also allows joining another thread with use of the Thread class's join method. Invocation of the join method will cause the invoking thread to wait until the desired thread has finished executing. 
+Once a thread's run method has ceased executing, the thread stops. Java also allows joining another thread with use of the Thread class's join method. Invocation of the join method will cause the invoking thread to wait until the desired thread has finished executing.
+
+## C# #
+C#, like Java, fully supports multithreaded programming. C# designates the BackgroundWorker and Thread classes to control simultaneous execution of threads.
+
+### Defining a Thread
+The following example illustrates defining a thread in C# using the Thread class:
+
+```cs
+class MyThread
+{
+    public static void Main(string[] args)
+    {
+        // Create and start thread
+        System.Threading.Thread myThread = new System.Threading.Thread(Method);
+        myThread.Start();
+    }
+
+    public static void Method()
+    {
+        System.Console.WriteLine("The thread is running!");
+    }
+}
+```
+*A thread in C# that executed the method "Method"*
+
+## PHP
+Multithreading is not a supported feature of PHP; however, PHP does enable concurrent programming through use of provided process control functions.
