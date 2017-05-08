@@ -26,7 +26,7 @@
 [Inheritance / extension](https://github.com/agom94/CS4330FinalProject/blob/master/Inheritance.md)<br>
 [Reflection](https://github.com/agom94/CS4330FinalProject/blob/master/Reflection.md)<br>
 [Memory management](https://github.com/agom94/CS4330FinalProject/blob/master/memory.md)<br>
-[Comparisons of references and values](https://github.com/agom94/CS4330FinalProject/blob/master/referencesandvalues.md) 
+[Comparisons of references and values](https://github.com/agom94/CS4330FinalProject/blob/master/referencesandvalues.md)<br>
 [Null/nil references](https://github.com/agom94/CS4330FinalProject/blob/master/Nullrefrences.md)<br>
 [Errors and exception handling](https://github.com/agom94/CS4330FinalProject/blob/master/exception.md)<br> 
 [Lambda expressions, closures, or functions as types](https://github.com/agom94/CS4330FinalProject/blob/master/lambda.md)  
